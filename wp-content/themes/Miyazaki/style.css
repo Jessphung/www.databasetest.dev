@@ -1,0 +1,39 @@
+/* 
+ Theme Name:   Miyazaki
+ Theme URI:    
+ Description:  
+ Author:       jessphung
+ Author URI:   
+ Template:     twentysixteen
+ Version:      1.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+
+ /* == Add your own styles below this line ==
+--------------------------------------------*/
+
+
+#about {background: #0673F6;
+        height: 350px; 
+		width:cover;
+		color: #fff;
+		padding: 20px;
+		font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif; 
+   }
+#show-row {background: #F47E14;
+           height: 250px; 
+		   width:cover; } 
+		   
+#hayao{padding-left: 410px;}
+
+#hm {float:right;
+     width: 750px;
+	 padding-right:150px;}
+
+
+#hmimage{padding-left: 80px; 
+         margin-top: -50px;
+          height: 275px; 
+         width: 275px;
+		 float: left;
+		 }
